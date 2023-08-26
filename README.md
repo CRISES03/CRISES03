@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Anurag Joshi</h1>
 <h3 align="center">I'm a data analyst who tells stories with data. I solve problems with a dash of creativity.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFvGNLFrbs_TgWOx6yv35eaqwuqM7k1XEXeA&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/JWuBH9rCO2uZuHBFpm/200w.webp?cid=ecf05e47204f78bvayfpferyehv63t86tg8t21emwq2qtmgr&ep=v1_gifs_search&rid=200w.webp&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crises03&label=Profile%20views&color=0e75b6&style=flat" alt="crises03" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crises03" alt="crises03" /></a> </p>
